@@ -1,0 +1,5 @@
+*.ova
+*.vdi
+*.vbox
+*.log
+.env
